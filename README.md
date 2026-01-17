@@ -12,8 +12,8 @@ Traduzindo linhas de código em movimento. Técnico em TI com experiência em mi
 
 Construindo minha base tecnológica. Transformo curiosidade em código e aprendizado em protótipos, utilizando a tecnologia para solucionar problemas e criar experiências interativas.
 
-🔭 Experiência no universo da IoT e microcontroladores (Arduino) através de projetos práticos e experimentação constante.
+🔭 Experiência no universo da automação e microcontroladores (Arduino) através de projetos práticos e experimentação constante.
 
 🌱 Consolidando fundamentos de TI enquanto busco minha especialização técnica.
 
-🚀 Motivado a evoluir de entusiasta para especialista, desafiando meus limites a cada novo projeto ou linha de código.
+🚀 Motivado a evoluir na área, desafiando meus limites a cada novo projeto ou linha de código.
