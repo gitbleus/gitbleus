@@ -1,19 +1,23 @@
-# 👋 Olá! Seja bem-vindo ao meu perfil!
-Traduzindo linhas de código em movimento. Técnico em TI com experiência em microcontroladores e no desenvolvimento de soluções tangíveis.
+# 👋🏼 Olá! Seja bem-vindo ao meu perfil!
+Traduzindo linhas de código em movimento. Graduando em Ciência da Computação (**UFCG**) e Técnico em TI (**IFPB**) com experiência em microcontroladores e no desenvolvimento de soluções tangíveis.
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
-![React.js](https://img.shields.io/badge/Library-React-61DAFB?logo=react)
-![Express.js](https://img.shields.io/badge/Framework-Express-61DAFB?logo=express&color=white)
-![Tailwind](https://img.shields.io/badge/Framework-Tailwind-informational?style=flat&logo=tailwindcss&color=87CEFA&logoColor=87CEFA)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-13aa52?logo=mongodb&color=13aa52&logoColor=13aa52)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=white&logoColor=black)
-![Arduino](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=arduino&color=00878F&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino&logoColor=white)
 
-Construindo minha base tecnológica. Transformo curiosidade em código e aprendizado em protótipos, utilizando a tecnologia para solucionar problemas e criar experiências interativas.
+Transformo curiosidade em código e aprendizado em soluções. Minha jornada une o desenvolvimento de software à eletrônica, utilizando a tecnologia para solucionar problemas e criar experiências interativas.
 
-🔭 Experiência no universo da automação e microcontroladores (Arduino) através de projetos práticos e experimentação constante.
+🔭 Automação e IoT com aplicação prática de protótipos.
 
-🌱 Consolidando fundamentos de TI enquanto busco minha especialização técnica.
+🎓 Atuação ativa em Projetos de Extensão e Pesquisa, com participações e apresentações em congressos.
 
-🚀 Motivado a evoluir na área, desafiando meus limites a cada novo projeto ou linha de código.
+🚀 Consolidar fundamentos de Ciência da Computação enquanto desafio meus limites técnicos em cada novo projeto.
